@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dihan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-![image](https://github.com/dihanrh/dihanrh/assets/98779204/c5924b44-5ca1-43a9-896e-b393a4993214)
+![image](https://github.com/dihanrh/dihanrh/assets/98779204/24c5a988-2a70-449a-8ec5-304c9ecc94e5)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dihanrh" alt="dihanrh" /></a> </p>
 
