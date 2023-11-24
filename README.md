@@ -4,7 +4,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dihanrh" alt="dihanrh" /></a> </p>
-<img align="right" alt = "coding" width = "250" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/98779204/285471078-8c0d7cf8-1a68-4377-bd13-6219fad6069c.gif">
+<img align="right" alt = "coding" width = "250" src = "https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🔭 I’m currently working on [IT-Society](https://github.com/dihanrh/IT-Society)
 
