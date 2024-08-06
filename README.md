@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dihanrh" alt="dihanrh" /></a> </p>
 <img align="right" alt = "coding" width = "250" src = "https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🔭 I’m currently working on [IT-Society](https://github.com/dihanrh/IT-Society)
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Express.js, Node.js, MongoDB**
 
