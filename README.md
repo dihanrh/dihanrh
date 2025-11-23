@@ -36,24 +36,18 @@
 ### 🛠️ Tech Stack (Updated)
 #### **Frontend**
 - React.js · Next.js  
-- Tailwind CSS · Redux Toolkit  
+- Tailwind CSS · Redux  
 - HTML5 · CSS3 · JavaScript (ES6+)
 
 #### **Backend**
 - Node.js · Express.js  
-- MongoDB · Mongoose  
-- REST APIs · JWT Auth · RBAC Permissions
+- MongoDB   
+- REST APIs · SOAP · GraphQL
 
 #### **DevOps / Cloud**
-- Docker · Docker Compose  
+- Docker
 - AWS ECS · ECR · S3 · Lambda  
 - GitHub Actions · CI/CD
-
-#### **Tools**
-- Git · GitHub  
-- Postman · VS Code  
-- Figma  
-- Adobe Illustrator / Photoshop
 
 ---
 
